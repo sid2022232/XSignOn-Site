@@ -1,0 +1,825 @@
+.iam,
+.iam * {
+  box-sizing: border-box;
+}
+.iam {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(90deg, rgba(10, 30, 68, 1) 0%, rgba(2, 26, 38, 1) 100%);
+  height: 2259px;
+  position: relative;
+  overflow: hidden;
+}
+.ellipse-1 {
+  background: rgba(0, 209, 178, 0.3);
+  border-radius: 50%;
+  width: 812px;
+  height: 666px;
+  position: absolute;
+  left: 737px;
+  top: 192px;
+  filter: blur(150px);
+}
+.header {
+  background: #173963;
+  width: 1440px;
+  height: 116px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.buttons {
+  border-radius: 10px;
+  padding: 4px 11px 4px 11px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  height: 31px;
+  position: absolute;
+  left: 409px;
+  top: 43px;
+  overflow: hidden;
+}
+.text {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  position: relative;
+}
+.buttons2 {
+  border-radius: 10px;
+  padding: 4px 11px 4px 11px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  height: 31px;
+  position: absolute;
+  left: 478px;
+  top: 43px;
+  overflow: hidden;
+}
+.buttons3 {
+  border-radius: 10px;
+  padding: 4px 11px 4px 11px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  height: 31px;
+  position: absolute;
+  left: 565px;
+  top: 43px;
+  overflow: hidden;
+}
+.buttons4 {
+  border-radius: 10px;
+  padding: 4px 11px 4px 11px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  height: 31px;
+  position: absolute;
+  left: 743px;
+  top: 43px;
+  overflow: hidden;
+}
+.buttons5 {
+  border-radius: 10px;
+  padding: 4px 11px 4px 11px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  height: 31px;
+  position: absolute;
+  left: 650px;
+  top: 43px;
+  overflow: hidden;
+}
+.buttons6 {
+  border-radius: 10px;
+  padding: 4px 11px 4px 11px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  height: 31px;
+  position: absolute;
+  left: 827px;
+  top: 43px;
+  overflow: hidden;
+}
+.buttons7 {
+  border-radius: 10px;
+  padding: 4px 11px 4px 11px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  height: 31px;
+  position: absolute;
+  left: 923px;
+  top: 43px;
+  overflow: hidden;
+}
+.button-variant-3 {
+  background: #00d1b2;
+  border-radius: 10px;
+  padding: 36px 28px 36px 28px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 160px;
+  height: 60px;
+  position: absolute;
+  left: 1038px;
+  top: 28px;
+  overflow: hidden;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  position: relative;
+}
+.search {
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  left: 1304px;
+  top: 34px;
+  overflow: visible;
+}
+.img-5537-1 {
+  width: 288.11px;
+  height: 78px;
+  position: absolute;
+  left: 59px;
+  top: 19px;
+  object-fit: cover;
+  aspect-ratio: 288.11/78;
+}
+.buttons8 {
+  border-radius: 10px;
+  padding: 4px 11px 4px 11px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 489px;
+  top: 66px;
+  overflow: hidden;
+}
+.iam2 {
+  background: #051229;
+  width: 1440px;
+  height: 452px;
+  position: absolute;
+  left: 0px;
+  top: 116px;
+  overflow: hidden;
+}
+.identify-access-management {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  left: 127px;
+  top: 49px;
+  width: 495px;
+  height: 141px;
+}
+.enable-passwordless-and-multi-factor-authentication-with-fido-2-biometric-security-certificate-based-login-and-centralized-key-management-all-within-a-scalable-iam-platform {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 127px;
+  top: 191px;
+  width: 610px;
+  height: 71px;
+}
+.https-elements-envato-com-vertical-photo-about-the-cybersecurity-protection-83-u-5-xpj {
+  width: 506.2px;
+  height: 275px;
+  position: absolute;
+  left: 764px;
+  top: 22px;
+  object-fit: cover;
+  aspect-ratio: 506.2/275;
+}
+.iam3 {
+  width: 11px;
+  height: 11px;
+  position: absolute;
+  left: 713px;
+  top: 391px;
+}
+.ellipse-5 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.home {
+  width: 11px;
+  height: 11px;
+  position: absolute;
+  left: 673px;
+  top: 391px;
+}
+.pam {
+  width: 11px;
+  height: 11px;
+  position: absolute;
+  left: 753px;
+  top: 391px;
+}
+.illumio {
+  width: 11px;
+  height: 11px;
+  position: absolute;
+  left: 793px;
+  top: 391px;
+}
+.rectangle-12 {
+  background: #174277;
+  border-radius: 10px;
+  width: 207px;
+  height: 55px;
+  position: absolute;
+  left: 127px;
+  top: 297px;
+}
+.rectangle-13 {
+  background: #174277;
+  border-radius: 10px;
+  width: 207px;
+  height: 55px;
+  position: absolute;
+  left: 342px;
+  top: 297px;
+}
+.explore-features {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 361px;
+  top: 315px;
+  width: 168px;
+  height: 19px;
+}
+.request-a-demo {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 150px;
+  top: 315px;
+  width: 160px;
+  height: 19px;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1 {
+  background: #051229;
+  border-radius: 40px;
+  width: 447px;
+  height: 231px;
+  position: absolute;
+  left: 165px;
+  top: 928px;
+}
+.zero-trust {
+  border-radius: 30px;
+  width: 393px;
+  height: 168px;
+  position: absolute;
+  left: 183px;
+  top: 960px;
+  overflow: hidden;
+}
+.passwordless-biometric-authentication {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 107px;
+  top: 7px;
+  width: 260px;
+  height: 39px;
+}
+.enable-fast-secure-login-using-fido-2-biometric-keys-like-thin-c-auth-bio-pro-with-support-for-anti-spoofing-fingerprint-sensors-and-smart-card-standards-piv {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 107px;
+  top: 60px;
+  width: 260px;
+  height: 116px;
+}
+.charm-shield-tick {
+  width: 81px;
+  height: 81px;
+  position: absolute;
+  left: 5px;
+  top: 3px;
+  overflow: hidden;
+  aspect-ratio: 1;
+}
+.group {
+  width: 65.62%;
+  height: 78.12%;
+  position: absolute;
+  right: 17.19%;
+  left: 17.19%;
+  bottom: 10.94%;
+  top: 10.94%;
+  overflow: visible;
+}
+.group-7 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-14 {
+  background: #051229;
+  border-radius: 40px;
+  width: 447px;
+  height: 231px;
+  position: absolute;
+  left: 156px;
+  top: 1223px;
+}
+.zero-trust2 {
+  border-radius: 30px;
+  width: 393px;
+  height: 168px;
+  position: absolute;
+  left: 174px;
+  top: 1255px;
+  overflow: hidden;
+}
+.cross-platform-compatibility {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 107px;
+  top: 7px;
+  width: 260px;
+  height: 39px;
+}
+.achieve-seamless-access-across-azure-ad-windows-linux-mac-os-rdp-vp-ns-and-hybrid-or-local-active-directory-environments {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 107px;
+  top: 60px;
+  width: 260px;
+  height: 116px;
+}
+.line-md-computer {
+  width: 99px;
+  height: 99px;
+  position: absolute;
+  left: 3px;
+  top: -11px;
+  overflow: hidden;
+  aspect-ratio: 1;
+}
+.group2 {
+  width: 75%;
+  height: 66.67%;
+  position: absolute;
+  right: 12.5%;
+  left: 12.5%;
+  bottom: 12.5%;
+  top: 20.83%;
+  overflow: visible;
+}
+.x-sign-on-delivers-a-comprehensive-suite-of-identity-and-authentication-solutions-designed-to-secure-access-across-platforms-with-biometric-passkeys-certificate-based-login-and-flexible-deployment-models-our-iam-tools-enhance-security-ensure-compliance-and-simplify-user-management-across-enterprise-environments {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 133px;
+  top: 738px;
+  width: 838px;
+  height: 71px;
+}
+.why-iam-matters {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 45px;
+  font-weight: 600;
+  position: absolute;
+  left: 133px;
+  top: 653px;
+  width: 633px;
+  height: 47px;
+}
+.deploy-identity-solutions-via-saa-s-on-premise-or-air-gapped-environments-tailored-to-your-enterprise-s-security-and-compliance-needs {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 133px;
+  top: 1634px;
+  width: 838px;
+  height: 71px;
+}
+.flexible-deployment-options {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 45px;
+  font-weight: 600;
+  position: absolute;
+  left: 133px;
+  top: 1549px;
+  width: 633px;
+  height: 47px;
+}
+.group-6 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-15 {
+  background: #051229;
+  border-radius: 40px;
+  width: 447px;
+  height: 231px;
+  position: absolute;
+  left: 696px;
+  top: 928px;
+}
+.zero-trust3 {
+  border-radius: 30px;
+  width: 393px;
+  height: 168px;
+  position: absolute;
+  left: 714px;
+  top: 960px;
+  overflow: hidden;
+}
+.multi-factor-authentication-mfa {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 107px;
+  top: 7px;
+  width: 260px;
+  height: 39px;
+}
+.strengthen-login-security-with-certificate-based-smart-cards-tacacs-radius-and-contextual-authentication-across-platforms {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 107px;
+  top: 60px;
+  width: 260px;
+  height: 116px;
+}
+.carbon-two-factor-authentication {
+  width: 81px;
+  height: 81px;
+  position: absolute;
+  left: 5px;
+  top: 3px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.group-8 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-16 {
+  background: #051229;
+  border-radius: 40px;
+  width: 447px;
+  height: 231px;
+  position: absolute;
+  left: 696px;
+  top: 1217px;
+}
+.zero-trust4 {
+  border-radius: 30px;
+  width: 393px;
+  height: 168px;
+  position: absolute;
+  left: 714px;
+  top: 1249px;
+  overflow: hidden;
+}
+.centralized-key-management {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 107px;
+  top: 7px;
+  width: 260px;
+  height: 39px;
+}
+.use-the-asset-management-system-ams-to-activate-or-deactivate-users-log-events-and-integrate-with-siem-tools-for-real-time-monitoring {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 107px;
+  top: 60px;
+  width: 260px;
+  height: 116px;
+}
+.material-symbols-monitor-weight-gain-outline {
+  width: 81px;
+  height: 81px;
+  position: absolute;
+  left: 5px;
+  top: 3px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.footer {
+  background: #051229;
+  width: 1440px;
+  height: 549px;
+  position: absolute;
+  left: -6px;
+  top: 1716px;
+  overflow: hidden;
+}
+.products {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  position: absolute;
+  left: 116px;
+  top: 94px;
+  width: 149px;
+  height: 29px;
+}
+.iam4 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 116px;
+  top: 149px;
+  width: 149px;
+  height: 29px;
+}
+.pam2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 116px;
+  top: 199px;
+  width: 149px;
+  height: 29px;
+}
+.illumio2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 116px;
+  top: 249px;
+  width: 149px;
+  height: 29px;
+}
+.view-all-products {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 116px;
+  top: 299px;
+  width: 244px;
+  height: 29px;
+}
+.about-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 381px;
+  top: 149px;
+  width: 149px;
+}
+.careers {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 381px;
+  top: 199px;
+  width: 149px;
+}
+.news-press {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 381px;
+  top: 249px;
+  width: 180px;
+}
+.leadership-team {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 381px;
+  top: 299px;
+  width: 244px;
+}
+.blog-articles {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 646px;
+  top: 149px;
+  width: 180px;
+}
+.webinars-events {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 646px;
+  top: 199px;
+  width: 202px;
+}
+.case-studies {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 646px;
+  top: 249px;
+  width: 180px;
+}
+.whitepapers-datasheets {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 646px;
+  top: 299px;
+  width: 244px;
+}
+._2025-x-sign-on-all-rights-reserved-privacy-policy {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 360px;
+  top: 452px;
+  width: 576px;
+}
+.company {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  position: absolute;
+  left: 381px;
+  top: 94px;
+  width: 149px;
+  height: 29px;
+}
+.resources {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  position: absolute;
+  left: 646px;
+  top: 94px;
+  width: 174px;
+  height: 29px;
+}
+.connect {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  position: absolute;
+  left: 936px;
+  top: 94px;
+  width: 174px;
+  height: 29px;
+}
+.vector {
+  width: 1.81%;
+  height: 3.32%;
+  position: absolute;
+  right: 33.19%;
+  left: 65%;
+  bottom: 70.99%;
+  top: 25.68%;
+  overflow: visible;
+}
+.mdi-linkedin {
+  width: 31px;
+  height: 31px;
+  position: absolute;
+  left: 977px;
+  top: 134px;
+  overflow: visible;
+  aspect-ratio: 1;
+}

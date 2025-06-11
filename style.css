@@ -1,0 +1,1315 @@
+.homepage,
+.homepage * {
+  box-sizing: border-box;
+}
+.homepage {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(90deg, rgba(10, 30, 68, 1) 0%, rgba(2, 26, 38, 1) 100%);
+  height: 4354px;
+  position: relative;
+  overflow: hidden;
+}
+.ellipse-1 {
+  background: rgba(0, 209, 178, 0.3);
+  border-radius: 50%;
+  width: 812px;
+  height: 666px;
+  position: absolute;
+  left: 737px;
+  top: 192px;
+  filter: blur(150px);
+}
+.group-6 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1 {
+  background: #051229;
+  border-radius: 40px;
+  width: 405px;
+  height: 238px;
+  position: absolute;
+  left: 896px;
+  top: 1419px;
+}
+.group-5 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-12 {
+  background: #051229;
+  border-radius: 40px;
+  width: 405px;
+  height: 238px;
+  position: absolute;
+  left: 482px;
+  top: 1419px;
+}
+.group-3 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-13 {
+  background: #051229;
+  border-radius: 40px;
+  width: 405px;
+  height: 238px;
+  position: absolute;
+  left: 564px;
+  top: 1056px;
+}
+.group-9 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-14 {
+  background: #051229;
+  border-radius: 40px;
+  width: 405px;
+  height: 238px;
+  position: absolute;
+  left: 533px;
+  top: 1766px;
+}
+.group-8 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-15 {
+  background: #051229;
+  border-radius: 40px;
+  width: 405px;
+  height: 238px;
+  position: absolute;
+  left: 119px;
+  top: 1766px;
+}
+.group-7 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-16 {
+  background: #051229;
+  border-radius: 40px;
+  width: 405px;
+  height: 238px;
+  position: absolute;
+  left: 983px;
+  top: 2093px;
+}
+.group-4 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-17 {
+  background: #051229;
+  border-radius: 40px;
+  width: 405px;
+  height: 238px;
+  position: absolute;
+  left: 558px;
+  top: 2098px;
+}
+.hero {
+  background: #051229;
+  width: 1440px;
+  height: 452px;
+  position: absolute;
+  left: 0px;
+  top: 116px;
+  overflow: hidden;
+}
+.next-generation-cybersecurity-innovation-platform {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 45px;
+  font-weight: 400;
+  position: absolute;
+  left: 127px;
+  top: 49px;
+  width: 610px;
+  height: 141px;
+}
+.ai-powered-cybersecurity-that-detects-threats-early-automates-protection-and-helps-secure-what-matters-most {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 127px;
+  top: 242px;
+  width: 610px;
+  height: 71px;
+}
+.image-2 {
+  border-radius: 20px;
+  width: 396px;
+  height: 264px;
+  position: absolute;
+  left: 967px;
+  top: 92px;
+  object-fit: cover;
+  aspect-ratio: 3/2;
+}
+.protect-what-matters-most-with-cybersecurity-solutions-trusted-by-enterprises-to-perform-adapt-and-secure-in-today-s-rapidly-changing-threat-landscape {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 127px;
+  top: 978px;
+  width: 747px;
+  height: 71px;
+}
+.header {
+  background: #00294b;
+  width: 1440px;
+  height: 116px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.buttons {
+  border-radius: 10px;
+  padding: 4px 11px 4px 11px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  height: 31px;
+  position: absolute;
+  left: 409px;
+  top: 43px;
+  overflow: hidden;
+}
+.text {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  position: relative;
+}
+.buttons2 {
+  border-radius: 10px;
+  padding: 4px 11px 4px 11px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  height: 31px;
+  position: absolute;
+  left: 478px;
+  top: 43px;
+  overflow: hidden;
+}
+.buttons3 {
+  border-radius: 10px;
+  padding: 4px 11px 4px 11px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  height: 31px;
+  position: absolute;
+  left: 565px;
+  top: 43px;
+  overflow: hidden;
+}
+.buttons4 {
+  border-radius: 10px;
+  padding: 4px 11px 4px 11px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  height: 31px;
+  position: absolute;
+  left: 743px;
+  top: 43px;
+  overflow: hidden;
+}
+.buttons5 {
+  border-radius: 10px;
+  padding: 4px 11px 4px 11px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  height: 31px;
+  position: absolute;
+  left: 650px;
+  top: 43px;
+  overflow: hidden;
+}
+.buttons6 {
+  border-radius: 10px;
+  padding: 4px 11px 4px 11px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  height: 31px;
+  position: absolute;
+  left: 827px;
+  top: 43px;
+  overflow: hidden;
+}
+.buttons7 {
+  border-radius: 10px;
+  padding: 4px 11px 4px 11px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  height: 31px;
+  position: absolute;
+  left: 923px;
+  top: 43px;
+  overflow: hidden;
+}
+.button-variant-3 {
+  background: #00d1b2;
+  border-radius: 10px;
+  padding: 36px 28px 36px 28px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 160px;
+  height: 60px;
+  position: absolute;
+  left: 1038px;
+  top: 28px;
+  overflow: hidden;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  position: relative;
+}
+.search {
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  left: 1304px;
+  top: 34px;
+  overflow: visible;
+}
+.img-5537-1 {
+  width: 288.11px;
+  height: 78px;
+  position: absolute;
+  left: 59px;
+  top: 19px;
+  object-fit: cover;
+  aspect-ratio: 288.11/78;
+}
+.why-choose-x-sign-on {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 45px;
+  font-weight: 600;
+  position: absolute;
+  left: 127px;
+  top: 893px;
+  width: 633px;
+  height: 47px;
+}
+.we-stand-by-our-cybersecurity-solutions-to-be-the-champions-defending-against-threats-and-safeguarding-what-matters-most {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 143px;
+  top: 684px;
+  width: 392px;
+  height: 71px;
+}
+.our-hero {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  position: absolute;
+  left: 143px;
+  top: 613px;
+  width: 215px;
+  height: 47px;
+}
+.our-goal-is-to-set-the-standard-for-innovative-ai-driven-cybersecurity-that-adapts-to-the-evolving-digital-landscape {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 725px;
+  top: 684px;
+  width: 442px;
+  height: 71px;
+}
+.our-vision {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  position: absolute;
+  left: 725px;
+  top: 613px;
+  width: 215px;
+  height: 47px;
+}
+.ready-to-elevate-your-cybersecurity-strategy {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 45px;
+  font-weight: 600;
+  position: absolute;
+  left: 228px;
+  top: 3525px;
+  width: 1023px;
+  height: 47px;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-18 {
+  background: #051229;
+  border-radius: 40px;
+  width: 405px;
+  height: 238px;
+  position: absolute;
+  left: 126px;
+  top: 1056px;
+}
+.zero-trust {
+  border-radius: 30px;
+  width: 393px;
+  height: 168px;
+  position: absolute;
+  left: 144px;
+  top: 1088px;
+  overflow: hidden;
+}
+.zero-trust-architecture {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 82px;
+  top: 8px;
+  width: 134px;
+  height: 39px;
+}
+.enforce-strict-identity-verification-for-every-user-and-device-with-dynamic-access-policies-tailored-to-real-time-context {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 82px;
+  top: 61px;
+  width: 286px;
+  height: 93px;
+}
+.mdi-security-lock-outline {
+  width: 71px;
+  height: 71px;
+  position: absolute;
+  left: 0px;
+  top: 1px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.zero-trust2 {
+  width: 393px;
+  height: 168px;
+  position: absolute;
+  left: 500px;
+  top: 1448px;
+  overflow: hidden;
+}
+.multi-cloud-integration {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 82px;
+  top: 8px;
+  width: 134px;
+  height: 39px;
+}
+.seamlessly-secure-workloads-across-aws-azure-gcp-and-hybrid-environments-with-unified-policy-enforcement {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 82px;
+  top: 61px;
+  width: 286px;
+  height: 93px;
+}
+.ic-outline-cloud {
+  width: 71px;
+  height: 71px;
+  position: absolute;
+  left: 0px;
+  top: 1px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.zero-trust3 {
+  width: 393px;
+  height: 168px;
+  position: absolute;
+  left: 571px;
+  top: 1091px;
+  overflow: hidden;
+}
+.ai-driven-threat-detection {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 82px;
+  top: 8px;
+  width: 173px;
+  height: 39px;
+}
+.leverage-machine-learning-to-detect-anomalies-and-prevent-threats-before-they-impact-your-systems-without-human-intervention {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 82px;
+  top: 61px;
+  width: 286px;
+  height: 93px;
+}
+.hugeicons-ai-scan {
+  width: 71px;
+  height: 71px;
+  position: absolute;
+  left: 0px;
+  top: 1px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.zero-trust4 {
+  width: 393px;
+  height: 168px;
+  position: absolute;
+  left: 902px;
+  top: 1448px;
+  overflow: hidden;
+}
+.identity-access-management {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 82px;
+  top: 8px;
+  width: 173px;
+  height: 39px;
+}
+.control-who-has-access-to-what-and-when-with-biometric-login-passwordless-authentication-and-session-based-control {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 82px;
+  top: 61px;
+  width: 286px;
+  height: 93px;
+}
+.material-symbols-person-outline {
+  width: 71px;
+  height: 71px;
+  position: absolute;
+  left: 0px;
+  top: 1px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.zero-trust5 {
+  width: 393px;
+  height: 168px;
+  position: absolute;
+  left: 137px;
+  top: 1792px;
+  overflow: hidden;
+}
+.compliance-audit-tools {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 82px;
+  top: 8px;
+  width: 134px;
+  height: 39px;
+}
+.ensure-cybersecurity-readiness-for-soc-2-hipaa-and-gdpr-with-automated-reporting-and-continuous-monitoring {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 82px;
+  top: 61px;
+  width: 286px;
+  height: 93px;
+}
+.mingcute-search-line {
+  width: 71px;
+  height: 71px;
+  position: absolute;
+  left: 0px;
+  top: 1px;
+  overflow: hidden;
+  aspect-ratio: 1;
+}
+.group {
+  width: 79.62%;
+  height: 90.89%;
+  position: absolute;
+  right: 12.05%;
+  left: 8.34%;
+  bottom: 0.78%;
+  top: 8.33%;
+  overflow: visible;
+}
+.zero-trust6 {
+  width: 393px;
+  height: 168px;
+  position: absolute;
+  left: 539px;
+  top: 1792px;
+  overflow: hidden;
+}
+.scalable-infrastructure {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 82px;
+  top: 8px;
+  width: 173px;
+  height: 39px;
+}
+.deploy-lightweight-scalable-agents-and-services-that-evolve-with-your-business-without-compromise-on-speed-or-coverage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 82px;
+  top: 61px;
+  width: 286px;
+  height: 93px;
+}
+.solar-box-bold {
+  width: 71px;
+  height: 71px;
+  position: absolute;
+  left: 0px;
+  top: 1px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.zero-trust7 {
+  width: 393px;
+  height: 168px;
+  position: absolute;
+  left: 558px;
+  top: 2133px;
+  overflow: hidden;
+}
+.real-time-threat-analytics {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 82px;
+  top: 8px;
+  width: 173px;
+  height: 39px;
+}
+.visualize-analyze-and-act-on-threats-as-they-emerge-with-live-dashboards-behavioral-analytics-and-incident-prioritization {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 82px;
+  top: 61px;
+  width: 286px;
+  height: 93px;
+}
+.bx-chart {
+  width: 71px;
+  height: 71px;
+  position: absolute;
+  left: 0px;
+  top: 1px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.apps-extensions {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  position: absolute;
+  left: 135px;
+  top: 3129px;
+  width: 277px;
+  height: 39px;
+}
+.discover-custom-tools-dashboards-and-extensions-from-trusted-tech-partners-that-integrate-seamlessly-with-x-sign-on {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 135px;
+  top: 3182px;
+  width: 336px;
+  height: 93px;
+}
+.zero-trust8 {
+  width: 393px;
+  height: 168px;
+  position: absolute;
+  left: 985px;
+  top: 2121px;
+  overflow: hidden;
+}
+.privileged-access-management {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 82px;
+  top: 8px;
+  width: 173px;
+  height: 39px;
+}
+.secure-and-monitor-administrator-and-developer-access-to-critical-systems-limiting-lateral-movement-during-breaches {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 82px;
+  top: 61px;
+  width: 286px;
+  height: 93px;
+}
+.pixel-management {
+  width: 71px;
+  height: 71px;
+  position: absolute;
+  left: 0px;
+  top: 1px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.image-8 {
+  border-radius: 30px;
+  width: 249px;
+  height: 249px;
+  position: absolute;
+  left: 1024px;
+  top: 1040px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.image-9 {
+  border-radius: 30px;
+  width: 257px;
+  height: 257px;
+  position: absolute;
+  left: 161px;
+  top: 1400px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.image-10 {
+  border-radius: 30px;
+  width: 238px;
+  height: 238px;
+  position: absolute;
+  left: 1038px;
+  top: 1766px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.home {
+  width: 11px;
+  height: 11px;
+  position: absolute;
+  left: 648px;
+  top: 507px;
+}
+.ellipse-5 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.pam {
+  width: 11px;
+  height: 11px;
+  position: absolute;
+  left: 728px;
+  top: 507px;
+}
+.illumio {
+  width: 11px;
+  height: 11px;
+  position: absolute;
+  left: 768px;
+  top: 507px;
+}
+.image {
+  border-radius: 30px;
+  width: 394px;
+  height: 332px;
+  position: absolute;
+  left: 101px;
+  top: 2772px;
+  object-fit: cover;
+}
+.trusted-partners {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  position: absolute;
+  left: 557px;
+  top: 3129px;
+  width: 277px;
+  height: 39px;
+}
+.connect-with-vetted-security-providers-system-integrators-and-solution-architects-aligned-with-your-business-needs {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 557px;
+  top: 3182px;
+  width: 336px;
+  height: 93px;
+}
+.image2 {
+  border-radius: 30px;
+  width: 394px;
+  height: 332px;
+  position: absolute;
+  left: 523px;
+  top: 2772px;
+  object-fit: cover;
+}
+.become-a-partner {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  position: absolute;
+  left: 979px;
+  top: 3129px;
+  width: 277px;
+  height: 39px;
+}
+.join-our-network-to-co-innovate-get-listed-on-our-platform-and-grow-your-reach-with-enterprise-customers {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 979px;
+  top: 3182px;
+  width: 336px;
+  height: 93px;
+}
+.image3 {
+  border-radius: 30px;
+  width: 394px;
+  height: 332px;
+  position: absolute;
+  left: 945px;
+  top: 2772px;
+  object-fit: cover;
+}
+.rectangle-9 {
+  background: #173963;
+  border-radius: 10px;
+  width: 265px;
+  height: 65px;
+  position: absolute;
+  left: 135px;
+  top: 3300px;
+}
+.explore-solutions {
+  color: #166fdc;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+  position: absolute;
+  left: 166px;
+  top: 3318px;
+  width: 215px;
+  height: 29px;
+}
+.rectangle-122 {
+  background: #246f79;
+  border-radius: 10px;
+  width: 245px;
+  height: 65px;
+  position: absolute;
+  left: 403px;
+  top: 3615px;
+}
+.get-started {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+  position: absolute;
+  left: 453px;
+  top: 3633px;
+  width: 144px;
+  height: 29px;
+}
+.rectangle-132 {
+  background: #246f79;
+  border-radius: 10px;
+  width: 291px;
+  height: 65px;
+  position: absolute;
+  left: 673px;
+  top: 3615px;
+}
+.request-a-demo {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+  position: absolute;
+  left: 718px;
+  top: 3633px;
+  width: 201px;
+  height: 29px;
+}
+.rectangle-11 {
+  background: #173963;
+  border-radius: 10px;
+  width: 265px;
+  height: 65px;
+  position: absolute;
+  left: 979px;
+  top: 3300px;
+}
+.partner-with-us {
+  color: #166fdc;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+  position: absolute;
+  left: 1018px;
+  top: 3318px;
+  width: 186px;
+  height: 29px;
+}
+.rectangle-10 {
+  background: #173963;
+  border-radius: 10px;
+  width: 226px;
+  height: 65px;
+  position: absolute;
+  left: 557px;
+  top: 3300px;
+}
+.view-partners {
+  color: #166fdc;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+  position: absolute;
+  left: 583px;
+  top: 3318px;
+  width: 174px;
+  height: 29px;
+}
+.footer {
+  background: #051229;
+  width: 1440px;
+  height: 549px;
+  position: absolute;
+  left: 0px;
+  top: 3805px;
+  overflow: hidden;
+}
+.products {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  position: absolute;
+  left: 116px;
+  top: 94px;
+  width: 149px;
+  height: 29px;
+}
+.iam {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 116px;
+  top: 149px;
+  width: 149px;
+  height: 29px;
+}
+.pam2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 116px;
+  top: 199px;
+  width: 149px;
+  height: 29px;
+}
+.illumio2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 116px;
+  top: 249px;
+  width: 149px;
+  height: 29px;
+}
+.view-all-products {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 116px;
+  top: 299px;
+  width: 244px;
+  height: 29px;
+}
+.about-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 381px;
+  top: 149px;
+  width: 149px;
+}
+.careers {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 381px;
+  top: 199px;
+  width: 149px;
+}
+.news-press {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 381px;
+  top: 249px;
+  width: 180px;
+}
+.leadership-team {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 381px;
+  top: 299px;
+  width: 244px;
+}
+.blog-articles {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 646px;
+  top: 149px;
+  width: 180px;
+}
+.webinars-events {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 646px;
+  top: 199px;
+  width: 202px;
+}
+.case-studies {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 646px;
+  top: 249px;
+  width: 180px;
+}
+.whitepapers-datasheets {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 646px;
+  top: 299px;
+  width: 244px;
+}
+._2025-x-sign-on-all-rights-reserved-privacy-policy {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 360px;
+  top: 452px;
+  width: 576px;
+}
+.company {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  position: absolute;
+  left: 381px;
+  top: 94px;
+  width: 149px;
+  height: 29px;
+}
+.resources {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  position: absolute;
+  left: 646px;
+  top: 94px;
+  width: 174px;
+  height: 29px;
+}
+.connect {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  position: absolute;
+  left: 936px;
+  top: 94px;
+  width: 174px;
+  height: 29px;
+}
+.vector {
+  width: 1.81%;
+  height: 3.32%;
+  position: absolute;
+  right: 33.19%;
+  left: 65%;
+  bottom: 70.99%;
+  top: 25.68%;
+  overflow: visible;
+}
+.mdi-linkedin {
+  width: 31px;
+  height: 31px;
+  position: absolute;
+  left: 977px;
+  top: 134px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.rectangle {
+  width: 110px;
+  height: 110px;
+  position: absolute;
+  left: 323px;
+  top: 2482px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.adobe-express-file-1 {
+  width: 100px;
+  height: 109px;
+  position: absolute;
+  left: 619px;
+  top: 2483px;
+  object-fit: cover;
+  aspect-ratio: 100/109;
+}
+.rubix {
+  color: #555556;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 437px;
+  top: 2554px;
+  width: 105px;
+  height: 31px;
+}
+.trie {
+  color: #555555;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 720px;
+  top: 2554px;
+  width: 69px;
+  height: 31px;
+}
+.illumio3 {
+  color: #555555;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 1003px;
+  top: 2552px;
+  width: 110px;
+  height: 31px;
+}
+.illumio4 {
+  height: auto;
+  position: absolute;
+  left: 884px;
+  top: 2492px;
+  overflow: visible;
+}
+.circle {
+  width: 11px;
+  height: 11px;
+  position: absolute;
+  left: 688px;
+  top: 507px;
+}
+.image-11 {
+  border-radius: 30px;
+  width: 287px;
+  height: 287px;
+  position: absolute;
+  left: 145px;
+  top: 2075px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}

@@ -1,0 +1,853 @@
+.about,
+.about * {
+  box-sizing: border-box;
+}
+.about {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(90deg, rgba(10, 30, 68, 1) 0%, rgba(2, 26, 38, 1) 100%);
+  height: 3606px;
+  position: relative;
+  overflow: hidden;
+}
+.ellipse-1 {
+  background: rgba(0, 209, 178, 0.3);
+  border-radius: 50%;
+  width: 812px;
+  height: 666px;
+  position: absolute;
+  left: 737px;
+  top: 192px;
+  filter: blur(150px);
+}
+.about-us {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 70px;
+  font-weight: 600;
+  position: absolute;
+  left: 359px;
+  top: 155px;
+  width: 731px;
+  height: 141px;
+}
+.empowering-organizations-with-seamless-always-on-zero-trust-protection {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 252px;
+  top: 287px;
+  width: 946px;
+  height: 68px;
+}
+.group-8 {
+  position: absolute;
+  inset: 0;
+}
+.group-3 {
+  width: 584px;
+  height: 456px;
+  position: static;
+}
+.group-2 {
+  width: 584px;
+  height: 456px;
+  position: static;
+}
+.rectangle-1 {
+  background: #051229;
+  border-radius: 40px;
+  width: 584px;
+  height: 456px;
+  position: absolute;
+  left: 784px;
+  top: 1711px;
+}
+.become-the-world-s-leading-identity-security-platform-where-every-digital-interaction-is-secure-seamless-and-inspires-innovation {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 822px;
+  top: 1851px;
+  width: 507px;
+  height: 276px;
+}
+.our-vision {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 35px;
+  font-weight: 600;
+  position: absolute;
+  left: 784px;
+  top: 1747px;
+  width: 584px;
+  height: 85px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-9 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-12 {
+  background: #051229;
+  border-radius: 40px;
+  width: 584px;
+  height: 456px;
+  position: absolute;
+  left: 76px;
+  top: 1711px;
+}
+.empower-organizations-to-secure-every-login-and-safeguard-critical-assets-with-seamless-ai-driven-zero-trust-identity-and-access-solutions-that-enhance-user-experience {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 114px;
+  top: 1851px;
+  width: 507px;
+  height: 276px;
+}
+.our-mission {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 35px;
+  font-weight: 600;
+  position: absolute;
+  left: 76px;
+  top: 1747px;
+  width: 584px;
+  height: 85px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-10 {
+  position: absolute;
+  inset: 0;
+}
+.group-32 {
+  width: 1354.28px;
+  height: 1012px;
+  position: static;
+}
+.group-22 {
+  width: 1354.28px;
+  height: 1012px;
+  position: static;
+}
+.rectangle-13 {
+  background: #051229;
+  border-radius: 40px;
+  width: 1354.28px;
+  height: 1012px;
+  position: absolute;
+  left: 43px;
+  top: 511px;
+}
+.we-are-committed-to-your-success-x-sign-on-is-a-specialist-identity-and-access-security-partner-based-in-texas-we-provide-a-full-suite-of-services-to-help-organizations-protect-networks-data-and-applications-against-evolving-cyber-threats-our-team-of-experienced-security-professionals-has-deep-expertise-in-identity-and-access-management-privileged-account-security-micro-segmentation-and-ai-driven-risk-analysis-we-offer-in-depth-security-assessments-solution-design-hands-on-implementation-of-iam-and-pam-platforms-and-continuous-management-of-your-security-infrastructure-at-x-sign-on-we-work-closely-with-each-client-to-understand-business-goals-regulatory-requirements-and-unique-threat-landscape-we-identify-vulnerabilities-map-existing-processes-and-develop-custom-strategies-that-combine-industry-best-practices-with-cutting-edge-technologies-whether-you-need-a-proof-of-concept-phased-roll-out-or-large-scale-deployment-we-guide-you-through-every-stage-from-planning-and-integration-to-training-and-change-management-our-support-model-includes-24-hour-monitoring-regular-health-checks-and-proactive-optimization-to-keep-pace-with-new-threats-with-x-sign-on-as-your-partner-you-gain-not-only-technology-expertise-but-also-a-collaborative-ally-dedicated-to-strengthening-defenses-and-driving-your-growth {
+  color: #ffffff;
+  text-align: left;
+  position: absolute;
+  left: 76px;
+  top: 594.16px;
+  width: 770px;
+  height: 908.93px;
+}
+.we-are-committed-to-your-success-x-sign-on-is-a-specialist-identity-and-access-security-partner-based-in-texas-we-provide-a-full-suite-of-services-to-help-organizations-protect-networks-data-and-applications-against-evolving-cyber-threats-our-team-of-experienced-security-professionals-has-deep-expertise-in-identity-and-access-management-privileged-account-security-micro-segmentation-and-ai-driven-risk-analysis-we-offer-in-depth-security-assessments-solution-design-hands-on-implementation-of-iam-and-pam-platforms-and-continuous-management-of-your-security-infrastructure-at-x-sign-on-we-work-closely-with-each-client-to-understand-business-goals-regulatory-requirements-and-unique-threat-landscape-we-identify-vulnerabilities-map-existing-processes-and-develop-custom-strategies-that-combine-industry-best-practices-with-cutting-edge-technologies-whether-you-need-a-proof-of-concept-phased-roll-out-or-large-scale-deployment-we-guide-you-through-every-stage-from-planning-and-integration-to-training-and-change-management-our-support-model-includes-24-hour-monitoring-regular-health-checks-and-proactive-optimization-to-keep-pace-with-new-threats-with-x-sign-on-as-your-partner-you-gain-not-only-technology-expertise-but-also-a-collaborative-ally-dedicated-to-strengthening-defenses-and-driving-your-growth-span {
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+}
+.we-are-committed-to-your-success-x-sign-on-is-a-specialist-identity-and-access-security-partner-based-in-texas-we-provide-a-full-suite-of-services-to-help-organizations-protect-networks-data-and-applications-against-evolving-cyber-threats-our-team-of-experienced-security-professionals-has-deep-expertise-in-identity-and-access-management-privileged-account-security-micro-segmentation-and-ai-driven-risk-analysis-we-offer-in-depth-security-assessments-solution-design-hands-on-implementation-of-iam-and-pam-platforms-and-continuous-management-of-your-security-infrastructure-at-x-sign-on-we-work-closely-with-each-client-to-understand-business-goals-regulatory-requirements-and-unique-threat-landscape-we-identify-vulnerabilities-map-existing-processes-and-develop-custom-strategies-that-combine-industry-best-practices-with-cutting-edge-technologies-whether-you-need-a-proof-of-concept-phased-roll-out-or-large-scale-deployment-we-guide-you-through-every-stage-from-planning-and-integration-to-training-and-change-management-our-support-model-includes-24-hour-monitoring-regular-health-checks-and-proactive-optimization-to-keep-pace-with-new-threats-with-x-sign-on-as-your-partner-you-gain-not-only-technology-expertise-but-also-a-collaborative-ally-dedicated-to-strengthening-defenses-and-driving-your-growth-span2 {
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+}
+.we-are-committed-to-your-success-x-sign-on-is-a-specialist-identity-and-access-security-partner-based-in-texas-we-provide-a-full-suite-of-services-to-help-organizations-protect-networks-data-and-applications-against-evolving-cyber-threats-our-team-of-experienced-security-professionals-has-deep-expertise-in-identity-and-access-management-privileged-account-security-micro-segmentation-and-ai-driven-risk-analysis-we-offer-in-depth-security-assessments-solution-design-hands-on-implementation-of-iam-and-pam-platforms-and-continuous-management-of-your-security-infrastructure-at-x-sign-on-we-work-closely-with-each-client-to-understand-business-goals-regulatory-requirements-and-unique-threat-landscape-we-identify-vulnerabilities-map-existing-processes-and-develop-custom-strategies-that-combine-industry-best-practices-with-cutting-edge-technologies-whether-you-need-a-proof-of-concept-phased-roll-out-or-large-scale-deployment-we-guide-you-through-every-stage-from-planning-and-integration-to-training-and-change-management-our-support-model-includes-24-hour-monitoring-regular-health-checks-and-proactive-optimization-to-keep-pace-with-new-threats-with-x-sign-on-as-your-partner-you-gain-not-only-technology-expertise-but-also-a-collaborative-ally-dedicated-to-strengthening-defenses-and-driving-your-growth-span3 {
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+}
+.how-can-we-help {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 79px;
+  top: 530.91px;
+  width: 318px;
+  height: 104.25px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image-14 {
+  border-radius: 30px;
+  width: 233.77px;
+  height: 233.77px;
+  position: absolute;
+  left: 900px;
+  top: 666px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.image-15 {
+  border-radius: 30px;
+  width: 233.77px;
+  height: 233.77px;
+  position: absolute;
+  left: 923px;
+  top: 1172px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.group-5 {
+  width: 324px;
+  height: 77px;
+  position: static;
+}
+.rectangle-8 {
+  background: rgba(1, 209, 178, 0.78);
+  border-radius: 15px;
+  width: 324px;
+  height: 77px;
+  position: absolute;
+  left: 156px;
+  top: 1395px;
+}
+.learn-more {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 249px;
+  top: 1419px;
+  width: 139px;
+  height: 29px;
+}
+.header {
+  background: #173963;
+  width: 1440px;
+  height: 116px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.buttons {
+  border-radius: 10px;
+  padding: 4px 11px 4px 11px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  height: 31px;
+  position: absolute;
+  left: 409px;
+  top: 43px;
+  overflow: hidden;
+}
+.text {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  position: relative;
+}
+.buttons2 {
+  border-radius: 10px;
+  padding: 4px 11px 4px 11px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  height: 31px;
+  position: absolute;
+  left: 478px;
+  top: 43px;
+  overflow: hidden;
+}
+.buttons3 {
+  border-radius: 10px;
+  padding: 4px 11px 4px 11px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  height: 31px;
+  position: absolute;
+  left: 565px;
+  top: 43px;
+  overflow: hidden;
+}
+.buttons4 {
+  border-radius: 10px;
+  padding: 4px 11px 4px 11px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  height: 31px;
+  position: absolute;
+  left: 743px;
+  top: 43px;
+  overflow: hidden;
+}
+.buttons5 {
+  border-radius: 10px;
+  padding: 4px 11px 4px 11px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  height: 31px;
+  position: absolute;
+  left: 650px;
+  top: 43px;
+  overflow: hidden;
+}
+.buttons6 {
+  border-radius: 10px;
+  padding: 4px 11px 4px 11px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  height: 31px;
+  position: absolute;
+  left: 827px;
+  top: 43px;
+  overflow: hidden;
+}
+.buttons7 {
+  border-radius: 10px;
+  padding: 4px 11px 4px 11px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  height: 31px;
+  position: absolute;
+  left: 923px;
+  top: 43px;
+  overflow: hidden;
+}
+.button-variant-3 {
+  background: #00d1b2;
+  border-radius: 10px;
+  padding: 36px 28px 36px 28px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 160px;
+  height: 60px;
+  position: absolute;
+  left: 1038px;
+  top: 28px;
+  overflow: hidden;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  position: relative;
+}
+.search {
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  left: 1304px;
+  top: 34px;
+  overflow: visible;
+}
+.img-5537-1 {
+  width: 288.11px;
+  height: 78px;
+  position: absolute;
+  left: 59px;
+  top: 19px;
+  object-fit: cover;
+  aspect-ratio: 288.11/78;
+}
+.listen-to-the-audio {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 628px;
+  top: 394px;
+  width: 163px;
+  height: 41px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.solar-play-line-duotone {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 799px;
+  top: 403px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.group-11 {
+  position: absolute;
+  inset: 0;
+}
+.group-33 {
+  width: 1126px;
+  height: 312px;
+  position: static;
+}
+.group-23 {
+  width: 1126px;
+  height: 312px;
+  position: static;
+}
+.rectangle-14 {
+  background: #051229;
+  border-radius: 40px;
+  width: 1126px;
+  height: 312px;
+  position: absolute;
+  left: 136px;
+  top: 2716px;
+}
+.subsribe-for-our-news-and-blogs {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 35px;
+  font-weight: 600;
+  position: absolute;
+  left: 136px;
+  top: 2750.87px;
+  width: 1126px;
+  height: 75.99px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-6 {
+  width: 993px;
+  height: 90.29px;
+  position: static;
+}
+.rectangle-82 {
+  background: rgba(233, 235, 235, 0.78);
+  border-radius: 15px;
+  width: 992.78px;
+  height: 90.29px;
+  position: absolute;
+  left: 204.22px;
+  top: 2855.46px;
+}
+.rectangle-83 {
+  background: rgba(170, 4, 4, 0.78);
+  border-radius: 15px;
+  width: 324px;
+  height: 68.84px;
+  position: absolute;
+  left: 822px;
+  top: 2866.19px;
+}
+.subscribe {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 822px;
+  top: 2866.19px;
+  width: 324px;
+  height: 68.84px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.enter-email-address {
+  color: #130f0f;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 25px;
+  font-weight: 700;
+  position: absolute;
+  left: 204px;
+  top: 2855.46px;
+  width: 993px;
+  height: 90.29px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-222 {
+  position: absolute;
+  inset: 0;
+}
+.group-12 {
+  width: 1180px;
+  height: 456px;
+  position: static;
+}
+.group-34 {
+  width: 1180px;
+  height: 456px;
+  position: static;
+}
+.group-24 {
+  width: 1180px;
+  height: 456px;
+  position: static;
+}
+.rectangle-15 {
+  background: #051229;
+  border-radius: 40px;
+  width: 1180px;
+  height: 456px;
+  position: absolute;
+  left: 98px;
+  top: 2193px;
+}
+.rectangle {
+  width: 110px;
+  height: 110px;
+  position: absolute;
+  left: 353px;
+  top: 2410px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.adobe-express-file-1 {
+  width: 99.92px;
+  height: 109px;
+  position: absolute;
+  left: 649px;
+  top: 2411px;
+  object-fit: cover;
+  aspect-ratio: 99.92/109;
+}
+.rubix {
+  color: #555556;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 467px;
+  top: 2482px;
+  width: 105px;
+  height: 31px;
+}
+.trie {
+  color: #555555;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 750px;
+  top: 2482px;
+  width: 69px;
+  height: 31px;
+}
+.illumio {
+  color: #555555;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 1033px;
+  top: 2480px;
+  width: 110px;
+  height: 31px;
+}
+.illumio2 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 914px;
+  top: 2420px;
+  overflow: visible;
+}
+.work-with {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 35px;
+  font-weight: 600;
+  position: absolute;
+  left: 125px;
+  top: 2256px;
+  width: 1126px;
+  height: 75.99px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer {
+  background: #051229;
+  width: 1440px;
+  height: 549px;
+  position: absolute;
+  left: 0px;
+  top: 3057px;
+  overflow: hidden;
+}
+.products {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  position: absolute;
+  left: 116px;
+  top: 94px;
+  width: 149px;
+  height: 29px;
+}
+.iam {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 116px;
+  top: 149px;
+  width: 149px;
+  height: 29px;
+}
+.pam {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 116px;
+  top: 199px;
+  width: 149px;
+  height: 29px;
+}
+.illumio3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 116px;
+  top: 249px;
+  width: 149px;
+  height: 29px;
+}
+.view-all-products {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 116px;
+  top: 299px;
+  width: 244px;
+  height: 29px;
+}
+.about-us2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 381px;
+  top: 149px;
+  width: 149px;
+}
+.careers {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 381px;
+  top: 199px;
+  width: 149px;
+}
+.news-press {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 381px;
+  top: 249px;
+  width: 180px;
+}
+.leadership-team {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 381px;
+  top: 299px;
+  width: 244px;
+}
+.blog-articles {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 646px;
+  top: 149px;
+  width: 180px;
+}
+.webinars-events {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 646px;
+  top: 199px;
+  width: 202px;
+}
+.case-studies {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 646px;
+  top: 249px;
+  width: 180px;
+}
+.whitepapers-datasheets {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 646px;
+  top: 299px;
+  width: 244px;
+}
+._2025-x-sign-on-all-rights-reserved-privacy-policy {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 23px;
+  font-weight: 400;
+  position: absolute;
+  left: 360px;
+  top: 452px;
+  width: 576px;
+}
+.company {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  position: absolute;
+  left: 381px;
+  top: 94px;
+  width: 149px;
+  height: 29px;
+}
+.resources {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  position: absolute;
+  left: 646px;
+  top: 94px;
+  width: 174px;
+  height: 29px;
+}
+.connect {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 25px;
+  font-weight: 500;
+  position: absolute;
+  left: 936px;
+  top: 94px;
+  width: 174px;
+  height: 29px;
+}
+.vector {
+  width: 1.81%;
+  height: 3.32%;
+  position: absolute;
+  right: 33.19%;
+  left: 65%;
+  bottom: 70.99%;
+  top: 25.68%;
+  overflow: visible;
+}
+.mdi-linkedin {
+  width: 31px;
+  height: 31px;
+  position: absolute;
+  left: 977px;
+  top: 134px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.image-13 {
+  border-radius: 30px;
+  width: 216px;
+  height: 216px;
+  position: absolute;
+  left: 1127px;
+  top: 928px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
